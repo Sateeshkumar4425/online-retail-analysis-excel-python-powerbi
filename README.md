@@ -127,7 +127,7 @@ To analyze transactional retail data and uncover:
 
 ## 🎥 Dashboard Demonstration
 
-![DashBoard](https://www.linkedin.com/feed/update/urn:li:activity:7428383650800631808/?originTrackingId=DxhoZYwAIjk3x5gi3GZSmA%3D%3D)
+🔗 [Watch the Power BI Dashboard Demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7428383650800631808/)
 
 ---
 
