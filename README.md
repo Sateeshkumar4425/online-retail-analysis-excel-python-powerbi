@@ -169,9 +169,7 @@ This project is licensed under the MIT License.
 
 **Sateesh Kumar Patlegar**
 
-💼 Open to Data Science, Analytics, and Quantitative roles  
-
-📧 patlegarsateeshkumar@gmail.com  
-
-🔗 LinkedIn: https://www.linkedin.com/in/patlegar-sateesh-kumar-868870258/
+📧 Gmail: patlegarsateeshkumar@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/patlegar-sateesh-kumar-868870258/  
+💼 Open to Data Science, Analytics, and Quant opportunities
 
